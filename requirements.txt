@@ -1,3 +1,4 @@
+discord
 novus>=0.2.4
 guilded.py
 revolt.py>=0.2.0
